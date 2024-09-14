@@ -3,8 +3,11 @@
 <h2 align="left">Sobre mim</h2>
 
 <p align="left">Meu nome é Júlio,
+  <br>
 📚 Atualmente estudando front-end
+  <br>
 19 anos,
+  <br>
 brasileiro e moro em Maceió - AL.</p>
 
 ###
