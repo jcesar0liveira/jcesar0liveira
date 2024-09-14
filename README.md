@@ -6,9 +6,9 @@
   <br>
 📚 Atualmente estudando front-end
   <br>
-19 anos,
+  19 anos,
   <br>
-brasileiro e moro em Maceió - AL.</p>
+  brasileiro e moro em Maceió - AL.</p>
 
 ###
 
