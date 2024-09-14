@@ -1,4 +1,15 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h1 align="left">E aí 👋 beleza?</h1>
+
+<h2 align="left">Sobre mim</h2>
+
+<p align="left">Meu nome é Júlio,
+📚 Atualmente estudando front-end
+19 anos,
+brasileiro e moro em Maceió - AL.</p>
+
+###
+
+<p align="left">✨ Criando bugs desde 2022<br>📚 Atualmente estudando front-end</p>
 
 ###
 
