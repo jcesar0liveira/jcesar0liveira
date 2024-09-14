@@ -9,10 +9,6 @@ brasileiro e moro em Maceió - AL.</p>
 
 ###
 
-<p align="left">✨ Criando bugs desde 2022<br>📚 Atualmente estudando front-end</p>
-
-###
-
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=jcesar0liveira&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jcesar0liveira&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
@@ -48,4 +44,6 @@ brasileiro e moro em Maceió - AL.</p>
 </div>
 
 <img src="https://raw.githubusercontent.com/iagomauricioo/iagomauricioo/output/snake.svg" alt="Snake animation" />
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=315rnt5m3srqweb34taepqx25xum)
 
